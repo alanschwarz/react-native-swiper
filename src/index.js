@@ -90,7 +90,7 @@ const styles = {
 
   buttonText: {
     fontSize: 50,
-    color: '#007aff'
+    color: '#000000'
   }
 }
 
